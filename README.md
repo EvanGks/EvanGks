@@ -65,18 +65,19 @@
  | ![LangChain](https://img.shields.io/badge/LangChain-grey)
  | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue)
 
-
 ---
 
 ## 🌐 Currently
 
-- Actively enhancing my GitHub portfolio with advanced AI projects.
-- Open to remote and freelance collaboration.
-- Continuing to deepen my knowledge of Reinforcement Learning.
+- **Actively enhancing my GitHub portfolio with advanced AI projects.**
+- **Open to remote and freelance collaboration.**
+- **Continuing to deepen my knowledge of Reinforcement Learning.**
+
+---
 
 📫 **Connect with me:** 
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/evangelos-gakias-346a9072/)
-- 🐦 [**X**](https://x.com/Evan6471133782)
-- 💻 [**GitHub**](https://github.com/EvanGks)
-- 🌐 **Website:** *(Coming soon!)*
+ 💼 [**LinkedIn**](https://www.linkedin.com/in/evangelos-gakias-346a9072/)
+ 🐦 [**X**](https://x.com/Evan6471133782)
+ 💻 [**GitHub**](https://github.com/EvanGks)
+ 🌐 **Website:** *(Coming soon!)*
 
