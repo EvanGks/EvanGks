@@ -4,36 +4,53 @@
 
 ### 👋 Hi there, I'm Evan!
 
-🚀 Passionate AI, ML, and DL Engineer specializing in Generative AI, NLP, and building innovative AI-driven applications. Certified by IBM in AI Development, Generative AI, AI Engineering, and Deep Learning. Proficient in building innovative AI solutions using state-of-the-art technologies like LangChain, Hugging Face, and advanced neural network models (CNNs, RNNs, Transformers). Skilled in deploying apps with Flask, integrating AI models with web apps and cloud platforms demonstrated through extensive hands-on projects. Currently enhancing my GitHub portfolio to showcase innovative AI applications, ML projects, and DL projects being open to collaborative remote projects and freelance opportunities.  
+🚀 **AI Engineer | Machine Learning | Deep Learning | Generative AI | Web AI Integration**
+
+💡 **Passionate about training AI models, AI-driven applications, chatbots, LLMs, and NLP solutions using LangChain, Hugging Face, TensorFlow, and PyTorch.**
+
+📌 **IBM certified in AI Development | AI Engineering | Generative AI | Deep Learning with PyTorch, Keras, and TensorFlow**
+
+🔹 **Open to freelance & remote opportunities**
 
 ---
 
 ## 🛠️ My Expertise
 
-- **AI and Generative AI:** Building interactive chatbots, voice assistants, and NLP solutions using LangChain, Hugging Face Transformers, and OpenAI APIs.
-- **Deep Learning:** Proficient with Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformer models using Keras, TensorFlow, and PyTorch.
-- **Machine Learning:** Experienced in supervised (Decision Trees, SVM, Random Forests) and unsupervised learning (K-means, Hierarchical clustering, t-SNE).
-- **Web Development & Deployment:** Developing AI-powered web applications and deploying models with Flask and cloud integration.
+🔹 **AI and Generative AI:** Chatbots, voice assistants, NLP applications (LangChain, Hugging Face, OpenAI API).
+
+🔹 **Deep Learning:** CNNs, RNNs, Transformers, and Transfer Learning models (TensorFlow, Keras, PyTorch).
+
+🔹 **Machine Learning:** Supervised (SVM, Decision Trees, Random Forests) & Unsupervised (PCA, Clustering).
+
+🔹 **Web Development & Deployment:** Deploying AI models via Flask, FastAPI, and cloud-based solutions.
 
 ---
 
 ## 📜 Certifications
 
-- **IBM AI Developer**
-- **IBM AI Engineering**
-- **IBM Generative AI Engineering**
-- **IBM Deep Learning** (Keras, TensorFlow, PyTorch)
-- **Advanced Prompt Engineering** (Vanderbilt University)
+🔹 **IBM AI Developer**
+
+🔹 **IBM AI Engineering**
+
+🔹 **IBM Generative AI Engineering**
+
+🔹 **IBM Deep Learning** (Keras, TensorFlow, PyTorch)
+
+🔹 **Advanced Prompt Engineering** (Vanderbilt University)
 
 ---
 
 ## 💻 Recent Projects
 
-- **Generative AI Chatbot** (LangChain)
-- **Image Captioning Web App** (Flask, Hugging Face)
-- **Voice Assistant Application** (GPT, IBM Watson)
-- **Sentiment Analysis Web App**
-- **AI Image Classifier** Web App (PyTorch)
+✅ [Generative AI Chatbot](GitHub Repo Link) – A chatbot powered by LangChain & OpenAI API with real-time responses.
+
+✅ [Image Captioning Web App](GitHub Repo Link) – Generates AI-powered captions using Hugging Face models.
+
+✅ [Voice Assistant (LLM, Watson)](GitHub Repo Link) – A voice-controlled AI assistant integrated with IBM Watson.
+
+✅ [Sentiment Analysis Web App](GitHub Repo Link) – Uses NLP techniques to analyze text sentiment.
+
+✅ [AI Image Classifier (PyTorch)](GitHub Repo Link) – Deep learning image classifier built with PyTorch CNNs.
 
 [👉 Explore my projects here!](https://github.com/EvanGks)
 
@@ -41,7 +58,13 @@
 
 ## ⚙️ Languages & Tools
 
-Python | JavaScript | Flask | PyTorch | TensorFlow | Keras | Hugging Face | LangChain | Scikit-learn
+![Python](https://img.shields.io/badge/Python-3.8-blue) | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+ | ![Flask](https://img.shields.io/badge/Flask-black)
+ | ![PyTorch](https://img.shields.io/badge/PyTorch-red) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) | ![Keras](https://img.shields.io/badge/Keras-red)
+ | ![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow)
+ | ![LangChain](https://img.shields.io/badge/LangChain-grey)
+ | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue)
+
 
 ---
 
