@@ -4,7 +4,7 @@
 
 ### 👋 Hi there, I'm Evan!
 
-🚀 Passionate AI, ML, and DL Engineer specializing in Generative AI, developing AI-driven apps, NLP, Machine Learning, and Deep Learning. Successfully certified by IBM in AI development, Generative AI, AI Engineering, and Deep Learning. Proficient in building innovative AI solutions using state-of-the-art technologies like LangChain, Hugging Face, and advanced neural network models (CNNs, RNNs, Transformers). Skilled in deploying apps with Flask, integrating AI models with web apps and cloud platforms demonstrated through extensive hands-on projects. Currently enhancing my GitHub portfolio to showcase innovative AI applications, ML projects, and DL projects being open to collaborative remote projects and freelance opportunities.  
+🚀 Passionate AI, ML, and DL Engineer specializing in Generative AI, NLP, and building innovative AI-driven applications. Certified by IBM in AI Development, Generative AI, AI Engineering, and Deep Learning. Proficient in building innovative AI solutions using state-of-the-art technologies like LangChain, Hugging Face, and advanced neural network models (CNNs, RNNs, Transformers). Skilled in deploying apps with Flask, integrating AI models with web apps and cloud platforms demonstrated through extensive hands-on projects. Currently enhancing my GitHub portfolio to showcase innovative AI applications, ML projects, and DL projects being open to collaborative remote projects and freelance opportunities.  
 
 ---
 
@@ -47,9 +47,13 @@ Python | JavaScript | Flask | PyTorch | TensorFlow | Keras | Hugging Face | Lang
 
 ## 🌐 Currently
 
-- Actively enhancing my GitHub portfolio with innovative AI projects.
-- Open to remote and freelance collaboration opportunities.
+- Actively enhancing my GitHub portfolio with advanced AI projects.
+- Open to remote and freelance collaboration.
 - Continuing to deepen my knowledge of Reinforcement Learning.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/evangelos-gakias-346a9072/)
-                        [X](https://x.com/Evan6471133782)
+📫 **Connect with me:** 
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/evangelos-gakias-346a9072/)
+- 🐦 [**X**](https://x.com/Evan6471133782)
+- 💻 [**GitHub**](https://github.com/EvanGks)
+- 🌐 **Website:** *(Coming soon!)*
+
