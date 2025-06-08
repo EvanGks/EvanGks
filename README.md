@@ -87,6 +87,6 @@ In just 9 months, I transitioned into AI, earning **6 professional certification
 - 🐦 [**X (Twitter)**](https://x.com/Evan6471133782)
 - 💻 [**GitHub**](https://github.com/EvanGks)
 - 🧠 [**Kaggle**](https://www.kaggle.com/evangelosgakias)
-- ✉️ **Email**: vgakias_hotmail.com
+- ✉️ **Email**: evangks88@gmail.com
 
 _🚀 From Civil/Structural engineering to building intelligent systems — this is just the beginning._
